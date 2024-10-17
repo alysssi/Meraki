@@ -46,7 +46,7 @@ body {
 
 
 .hero-products {
-    background: linear-gradient(45deg, rgba(105, 89, 166, 0.9), rgba(247, 142, 32, 0.9)), url('/static/images/soulnowords.png');
+    background: linear-gradient(45deg, rgba(105, 89, 166, 0.9), rgba(247, 142, 32, 0.9)), url('../images/soulnowords.png');
     background-size: cover;
     background-position: center;
     height: 60vh;
